@@ -243,6 +243,7 @@ function setAll(dir, bool)
         end
 
     resources[3] = resources[3] + 1
+       end
 end
 
 function searchAll(dir, bool)
